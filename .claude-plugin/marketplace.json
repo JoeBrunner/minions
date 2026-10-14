@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "minions",
+  "description": "The Minions skill for Claude Code",
+  "owner": {
+    "name": "Joe Brunner"
+  },
+  "plugins": [
+    {
+      "name": "minions",
+      "description": "Opus is the evil genius: it draws up the plans and checks every piece. Sonnet minions do the building. Saves your Claude usage on big builds.",
+      "source": "./",
+      "category": "productivity",
+      "homepage": "https://github.com/JoeBrunner/minions"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "minions",
+  "description": "Say \"minions\" on a build and Claude becomes the evil genius: Opus draws up the plans and checks every piece, Sonnet minions do the building. Saves your Claude usage on big builds. Small jobs stay with one Claude.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Joe Brunner"
+  },
+  "homepage": "https://github.com/JoeBrunner/minions",
+  "repository": "https://github.com/JoeBrunner/minions",
+  "license": "MIT",
+  "keywords": ["claude-code", "skill", "subagents", "usage", "sonnet", "opus"]
+}
